@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/71200950/152658240-800caf46-861d-49d7-
 
 
 
-Demo - Get routes fro a single category, a single product, and a single tag being tested in Insomnia
+Demo - Get routes for a single category, a single product, and a single tag being tested in Insomnia
 [here](https://vimeo.com/673962576/5250389ea9)
 
 
