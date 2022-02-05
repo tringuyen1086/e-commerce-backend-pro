@@ -88,14 +88,35 @@ Open up Insomnia core to GET, POST, PUT and DELETE from different routes.
 Demo - Creating the schema from the MySQL shell & Seeding the database from the command line & Starting the application's server
 [here](https://vimeo.com/673955318/9211c46f06)
 
+
+https://user-images.githubusercontent.com/71200950/152658231-13292479-0ccb-49c6-81a4-90c606cbf7ae.mp4
+
+
+
 Demo - GET routes for all categories, all products, and all tags being tested in Insomnia
 [here](https://vimeo.com/673959538/af3fe5989d)
+
+
+
+https://user-images.githubusercontent.com/71200950/152658240-800caf46-861d-49d7-ba8f-7f8d0cd6f9dc.mp4
+
+
 
 Demo - Get routes fro a single category, a single product, and a single tag being tested in Insomnia
 [here](https://vimeo.com/673962576/5250389ea9)
 
+
+
+https://user-images.githubusercontent.com/71200950/152658243-14c549bc-22f5-4f5a-93fb-abb98cdfcaac.mp4
+
+
 Demo - POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia
 [here](https://vimeo.com/673983538/e0608b8c3d)
+
+
+https://user-images.githubusercontent.com/71200950/152658342-99b67755-dfda-4102-9654-aecdf77c9d7b.mp4
+
+
 
 ## References
 
